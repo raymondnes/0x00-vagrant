@@ -1,2 +1,1 @@
-# 0x00-vagrant
-A virtual Machine on the host computer
+This project is about setting up a virtual machine on my local pc that connects to remote servers, while navigating these remote servers from the local terminal (virtual box). The VM called vagrant was installed and connected to the command line which in turn allows mw to manage and ship isolated development environments. I have installed git and cloned it on my local machine, where I am tasked to create a text description of the project in a README.md file which should be present at the root of the repo 0x00-vagrant.
